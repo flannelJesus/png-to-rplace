@@ -1,0 +1,12 @@
+{
+  "name": "png-to-rplace",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "color-diff": "^1.0.0",
+    "parse-png": "^1.1.1"
+  }
+}
